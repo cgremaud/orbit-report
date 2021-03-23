@@ -1,4 +1,4 @@
-import { Sattelite } from './sattelite';
+import { Sattelite } from './satellite';
 
 describe('Sattelite', () => {
   it('should create an instance', () => {
