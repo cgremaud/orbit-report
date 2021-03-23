@@ -45,4 +45,8 @@ export class AppComponent {
     this.displayList = matchingSatellites;
  }
 
+ clearSearch() {
+   this.displayList = this.sourceList
+ }
+
 }
