@@ -1,7 +1,7 @@
-import { Sattelite } from './satellite';
+import { Satellite } from './satellite';
 
 describe('Sattelite', () => {
   it('should create an instance', () => {
-    expect(new Sattelite()).toBeTruthy();
+    expect(new Satellite()).toBeTruthy();
   });
 });
